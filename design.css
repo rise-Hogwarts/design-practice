@@ -57,3 +57,88 @@ header{
   font-size: 20px;
   text-align: center;
 }
+
+.example{
+  width: 100%;
+  background-color: #eceff1;
+  padding: 90px;
+}
+
+h3{
+  color: #000000;
+  font-size: 32px;
+  text-align: center;
+}
+
+.title-border{
+  border-top: 3px solid #ec715f;
+  width: 70px;
+  margin: 8px auto 30px;
+}
+
+.explanation-text{
+  font-size: 16px;
+  color: #000000;
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.portfolio-image{
+  display: flex;
+  flex-wrap: wrap;
+  width: 920px;
+  height: 510px;
+  margin: auto;
+}
+
+.p-img-1{
+  background-image: url(image/sketch.jpg);
+  width: 300px;
+  height: 250px;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 10px;
+}
+
+.p-img-2{
+  background-image: url(image/websuku.png);
+  width: 300px;
+  height: 250px;
+  background-position: center;
+  background-size: cover;
+  margin:0 10px 10px;
+}
+
+.p-img-3{
+  background-image: url(image/write.jpg);
+  width: 300px;
+  height: 250px;
+  background-position: center;
+  background-size: cover;
+  margin-bottom: 10px;
+}
+
+.p-img-4{
+  background-image: url(image/webcamp.png);
+  width: 300px;
+  height: 250px;
+  background-position: center;
+  background-size: cover;
+}
+
+.p-img-5{
+  background-image: url(image/talk.jpg);
+  width: 300px;
+  height: 250px;
+  background-position: center;
+  background-size: cover;
+  margin:0 10px;
+}
+
+.p-img-6{
+  background-image: url(image/webcamp-mother.png);
+  width: 300px;
+  height: 250px;
+  background-position: center;
+  background-size: cover;
+}
