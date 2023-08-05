@@ -142,3 +142,11 @@ h3{
   background-position: center;
   background-size: cover;
 }
+
+.feature-box{
+  padding: 90px;
+}
+
+.strength{
+  width: 980px;
+}
