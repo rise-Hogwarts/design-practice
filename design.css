@@ -149,4 +149,41 @@ h3{
 
 .strength{
   width: 980px;
+  display: flex;
+  justify-content: center;
+  height: auto;
+  margin: auto;
+}
+
+.strength-1{
+  width: 320px;
+  height: auto;
+  text-align: center;
+}
+
+.strength-2{
+  width: 320px;
+  height: auto;
+  margin: 0 10px;
+  text-align: center;
+}
+
+.strength-3{
+  width: 320px;
+  height: auto;
+  text-align: center;
+}
+
+.font-edit{
+  font-size: 60px;
+}
+
+h5{
+  font-size: 20px;
+  color: #000000;
+  margin: 10px;
+}
+
+.strength-text{
+  text-align: left;
 }
