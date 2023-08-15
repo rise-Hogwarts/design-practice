@@ -77,13 +77,13 @@ h3{
   text-align: center;
 }
 
-.title-border{
+.title-border{   /* タイトル下の線 */
   border-top: 3px solid #ec715f;
   width: 70px;
   margin: 8px auto 30px;
 }
 
-.explanation-text{
+.explanation-text{   /* 例文テキスト */
   font-size: 16px;
   color: #000000;
   text-align: center;
