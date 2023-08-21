@@ -282,17 +282,93 @@ footer{
   .logo-image{
     height: 50px;
   }
-  
+
+  .main-image{
+    background-image: url(image/code.png);
+  }
+
   .main-title{
+    width: 90%;
+    margin: 0 auto;
     color: #fafafa;
-    font-size: 64px;
+    font-size: 40px;
     text-align: center;
   }
 
   .main-text{
-    margin-top: 10px;
+    width: 90%;
+    margin: 10px auto 0;
     color: #fafafa;
-    font-size: 20px;
+    font-size: 18px;
     text-align: center;
+  }
+
+  .portfolio-box{
+    width: 90%;
+  }
+
+  .portfolio-image-box{
+    width: 300px;
+    height: auto;
+    margin: auto;
+  }
+
+  .portfolio-image:nth-child(1){
+    display: none;
+  }
+
+  .portfolio-image:nth-child(2){
+    margin:0 ;
+  }
+
+  .portfolio-image:nth-child(3){
+    display: none;
+  }
+
+  .portfolio-image:nth-child(4){
+    margin: 10px 0;
+  }
+
+  .portfolio-image:nth-child(5){
+    display: none;
+  }
+
+  .feature-box{
+    width: 90%;
+  }
+
+  .strength-box{
+    display: block;
+    width: 100%;
+  }
+
+  .only-pc{
+    display: none;
+  }
+
+  .strength:nth-child(1){
+    width: 90%;
+    height: auto;
+    text-align: center;
+    margin: 0 auto;
+  }
+
+  .strength:nth-child(2){
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .strength:nth-child(3){
+    width: 90%;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+  }
+
+  .strength-text{
+    display: inline-block;
+    margin-bottom: 10px;
   }
 }
