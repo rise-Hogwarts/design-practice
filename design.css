@@ -21,7 +21,7 @@ header{
 .logo-image{
   background-image: url(image/logo.png);
   width: 200px;
-  height: 100%;
+  height: 70px;
   margin-right: 445px;
   background-position: center;
   background-size: cover;
@@ -370,5 +370,64 @@ footer{
   .strength-text{
     display: inline-block;
     margin-bottom: 10px;
+  }
+
+  .profile-box{
+    width: 90%;
+  }
+
+  .profile{
+    display: block;
+  }
+
+  .profile-right{
+    width: 100%;
+  }
+
+  .profile-left{
+    width: 100%;
+  }
+
+  .profile-image{
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+  }
+
+  .profile-right .font-bold{
+    margin: 20px 0 5px;
+    text-align: center;
+  }
+
+  .profile-right .font-normal{
+    text-align: center;
+  }
+
+  .contact-box{
+    width: 90%;
+  }
+
+  .contact{
+    display: block;
+  }
+
+  .contact-information{
+    width: 100%;
+    text-align: center;
+    padding: 0;
+  }
+
+  .contact-sns{
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+    padding: 0;
+  }
+
+  .fa-twitter{
+    margin: 0 8px;
   }
 }
