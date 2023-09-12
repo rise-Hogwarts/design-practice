@@ -296,6 +296,26 @@ footer{
     border: solid 1px #ffffff;
     height: 40px;
     width: 40px;
+    margin: 5px 0;
+    padding-top: 9px;
+  }
+
+  .hamburger-border:nth-child(1){
+    border-top: solid 3px #ffffff;
+    margin: auto;
+    width: 30px;
+  }
+
+  .hamburger-border:nth-child(2){
+    border-top: solid 3px #ffffff;
+    margin: 5px auto;
+    width: 30px;
+  }
+
+  .hamburger-border:nth-child(3){
+    border-top: solid 3px #ffffff;
+    margin: auto;
+    width: 30px;
   }
 
   .main-image{
